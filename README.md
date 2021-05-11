@@ -106,7 +106,8 @@
   </tbody>
 </table>
   
-  
+<h3> This next section only displays info from public repos: </h3>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
