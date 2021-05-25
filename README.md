@@ -50,8 +50,8 @@
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
             <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+            <td><a href="#"><img alt="Dart" title="Dart" height="28px"
+                        src="https://img.icons8.com/color/452/dart.png" /></a>
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
@@ -63,26 +63,26 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            <td><a href="#"><img alt="Docker" title="Docker" height="28px"
+                        src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" /></a></td>
+            <td><a href="#"><img alt="AWS" title="AWS" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a></td>
+            <td><a href="#"><img alt="GCP" title="GCP" height="28px"
+                        src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135110/gcp_icon_v.png" /></a>
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            <td><a href="#"><img alt="Unity" title="Unity" height="28px"
+                        src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" /></a>
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a>
+            <td><a href="#"><img alt="React" title="React" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" /></a></td>
+            <td><a href="#"><img alt="Photoshop" title="Photoshop" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" /></a></td>
+            <td><a href="#"><img alt="Cisco" title="Cisco" height="28px"
+                        src="http://wonsdesign.com/img/icons/cisco-logo.png" /></a>
           </td>
       </tr>
   </tbody>
