@@ -109,7 +109,7 @@
 <h3> This next section only displays info from public repos: </h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -152,12 +152,12 @@ Sunday       58 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ██████████████████░░░░░░░   72.09% 
-YAML                     1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   26.52% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+JavaScript               5 hrs 17 mins       █████████████████░░░░░░░░   71.47% 
+YAML                     1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -174,7 +174,7 @@ TSQL                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2021
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
 
 <!--
