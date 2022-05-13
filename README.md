@@ -109,7 +109,7 @@
 <h3> This next section only displays info from public repos: </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -174,7 +174,7 @@ TSQL                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 00:43:39 UTC
+ Last Updated on 13/05/2022 00:50:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
