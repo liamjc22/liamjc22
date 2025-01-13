@@ -10,7 +10,6 @@
 
 ### About me!
 
-- ❄️ Currently working on Pollar 
 - 🏫 Graduated from the University of Western Ontario 
 - 🎧 💗 Music Lover 💗 🎧
 - 💬 Ask me about anything! 
