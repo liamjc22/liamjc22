@@ -7,14 +7,14 @@
 - ⚙️ Full Stack Developer
 - 🎨 Creative Art Designer 
 - ☕ Coffee Lover
+- 🤖 Ai/Ml fan
 
 ### About me!
 
 - 🏫 Graduated from the University of Western Ontario 
 - 🎧 💗 Music Lover 💗 🎧
 - 💬 Ask me about anything! 
-- 📫 Email: liamjc22@gmail.com
-🌱
+- 🌱 Note most of my commits are private nowadays 
 <table>
   <tbody>
     <tr>
